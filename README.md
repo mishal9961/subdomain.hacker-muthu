@@ -20,3 +20,21 @@ sudo apt update
 ```bash
 sudo apt install curl bind9-dnsutils ncurses-bin xdg-utils jq parallel net-tools
 ```
+
+```bash
+git clone https://github.com/mishal9961/subdomain.hacker-muthu.git
+```
+
+
+```bash
+cd subdomain.hacker-muthu
+```
+
+
+```bash
+chmod +x subdomain.hacker-muthu
+```
+
+```bash
+./subdomain.hacker-muthu
+```
